@@ -1,5 +1,4 @@
 string = "My name is Hwang Hyodong"
-
 print("문자 수:", len(string))
 print("10번 반복:", string * 10)
 print("첫 번째 문자:", string[0])
