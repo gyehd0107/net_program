@@ -24,7 +24,7 @@ def calculate(expression):
         return f"오류: {str(e)}"
 
 HOST = '127.0.0.1'
-PORT = 9999
+PORT = 2500
 
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server_socket.bind((HOST, PORT))
