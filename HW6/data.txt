@@ -1,0 +1,10 @@
+Tue Apr 08 18:19:36 2025: Device1: Temp=12, Humid=41, Iilum==126
+Tue Apr 08 18:19:37 2025: Device1: Temp=21, Humid=87, Iilum==97
+Tue Apr 08 18:19:38 2025: Device1: Temp=19, Humid=69, Iilum==74
+Tue Apr 08 18:19:39 2025: Device1: Temp=3, Humid=23, Iilum==129
+Tue Apr 08 18:19:40 2025: Device1: Temp=10, Humid=22, Iilum==128
+Tue Apr 08 18:19:50 2025: Device2: Heartbeat=46, Steps=4997, Cal=2557
+Tue Apr 08 18:19:51 2025: Device2: Heartbeat=62, Steps=3013, Cal=1822
+Tue Apr 08 18:19:52 2025: Device2: Heartbeat=80, Steps=5360, Cal=3544
+Tue Apr 08 18:19:53 2025: Device2: Heartbeat=69, Steps=3329, Cal=1285
+Tue Apr 08 18:19:54 2025: Device2: Heartbeat=93, Steps=2314, Cal=3898
